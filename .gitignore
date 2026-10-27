@@ -1,0 +1,15 @@
+# Environment & Virtual Env
+.env*
+env/
+venv/
+__pycache__/
+*.pyc
+
+# Folder Hasil / Result
+_result_*/
+results/
+
+# Sistem
+$RECYCLE.BIN/
+System Volume Information/
+.vscode/
